@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.donkor.demo.realm">
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.Student.StudentActivity" />
+        <activity android:name=".activity.Student.AddStudentActivity" />
+        <activity
+            android:name=".activity.Student.QueryStudentActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name=".activity.Student.StudentDetailActivity" />
+        <activity android:name=".activity.Student.DeleteStudentActivity" />
+        <activity android:name=".activity.Student.UpdateStudentActivity" />
+        <activity android:name=".activity.Student.StudentUpdateDetailActivity" />
+
+        <activity android:name=".activity.Book.BookActivity"/>
+        <activity android:name=".activity.Book.AddBookActivity"/>
+        <activity android:name=".activity.Book.QueryBookActivity"/>
+        <activity android:name=".activity.Book.DeleteBookActivity"/>
+        <activity android:name=".activity.Book.UpdateBookActivity"/>
+        <activity android:name=".activity.Book.BookUpdateDetailActivity"/>
+    </application>
+
+</manifest>

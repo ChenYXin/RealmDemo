@@ -1,0 +1,116 @@
+{
+    "android_gradle_plugin_version": "2.1.2",
+    "apk_path": "D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        "app": {
+            "aptArgs": [
+                
+            ],
+            "aptOutput": "D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\generated\\source\\apt\\debug",
+            "disableDiscovery": false,
+            "enabled": true,
+            "processor": null,
+            "processorPath": "D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\jars\\classes.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\23.3.0\\jars\\classes.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\animated-vector-drawable\\23.3.0\\jars\\classes.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-vector-drawable\\23.3.0\\jars\\classes.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.antfortune.freeline\\runtime\\0.8.4\\jars\\classes.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.getkeepsafe.relinker\\relinker\\1.2.2\\jars\\classes.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\io.realm\\realm-annotations\\2.0.2\\e97f64258ef6d0daeb26b3b88988215e0b14d9b2\\realm-annotations-2.0.2.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\io.realm\\realm-android-library\\2.0.2\\jars\\classes.jar;E:\\Users\\Android\\sdk1\\extras\\android\\m2repository\\com\\android\\support\\support-annotations\\23.3.0\\support-annotations-23.3.0.jar;D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\23.3.0\\jars\\libs\\internal_impl-23.3.0.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\io.realm\\realm-annotations-processor\\2.0.2\\b70a7223dcb84cacec4d86c0668851ee0d122ee6\\realm-annotations-processor-2.0.2.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\io.realm\\realm-android-library\\2.0.2\\4eed308f70b2e6518c7994c0413b1fc609561fbb\\realm-android-library-2.0.2.aar;E:\\Users\\Android\\sdk1\\extras\\android\\m2repository\\com\\android\\support\\appcompat-v7\\23.3.0\\appcompat-v7-23.3.0.aar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup\\javawriter\\2.5.0\\81241ff7078ef14f42ea2a8995fa09c096256e6b\\javawriter-2.5.0.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.getkeepsafe.relinker\\relinker\\1.2.2\\f5128423079867041cd4ec02a01c17782d3b4db0\\relinker-1.2.2.aar;E:\\Users\\Android\\sdk1\\extras\\android\\m2repository\\com\\android\\support\\support-vector-drawable\\23.3.0\\support-vector-drawable-23.3.0.aar;E:\\Users\\Android\\sdk1\\extras\\android\\m2repository\\com\\android\\support\\animated-vector-drawable\\23.3.0\\animated-vector-drawable-23.3.0.aar;E:\\Users\\Android\\sdk1\\extras\\android\\m2repository\\com\\android\\support\\support-v4\\23.3.0\\support-v4-23.3.0.aar"
+        }
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\freeline",
+    "build_directory": "D:\\AndroidStudioProjects\\RealmDemo\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "E:\\Users\\Android\\sdk1\\build-tools\\23.0.3",
+    "build_tools_version": "23.0.3",
+    "compile_sdk_directory": "E:\\Users\\Android\\sdk1\\platforms\\android-23",
+    "compile_sdk_version": "android-23",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.donkor.demo.realm",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "D:\\AndroidStudioProjects\\RealmDemo",
+    "freeline_gradle_plugin_version": "0.8.4",
+    "java_home": "E:\\Program Files\\Java\\jdk1.8.0_91",
+    "launcher": "com.donkor.demo.realm.activity.LoginActivity",
+    "main_assets_directory": [
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\assets",
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\jniLibs",
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\jni",
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "D:\\AndroidStudioProjects\\RealmDemo\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\res",
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\java",
+        "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "D:\\AndroidStudioProjects\\RealmDemo\\app"
+        }
+    ],
+    "package": "com.donkor.demo.realm",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\assets",
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\jniLibs",
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\jni",
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\res",
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\debug\\java",
+                "D:\\AndroidStudioProjects\\RealmDemo\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "D:\\AndroidStudioProjects\\RealmDemo",
+    "sdk_directory": "E:\\Users\\Android\\sdk1",
+    "use_jdk8": false
+}
